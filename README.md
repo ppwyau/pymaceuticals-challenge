@@ -1,2 +1,2 @@
-# data-challenge
+# pymaceticals-challenge
 challenge 5
